@@ -36,3 +36,4 @@ Some LeetCode problem solutions, mainly from the book "图解算法数据结构"
 | Tree         | TreeSolution10          | LeetCode 110: Balanced Binary Tree                                                    |
 | Tree         | DuiChengTree            | LeetCode 101: Symmetric Tree                                                          |
 | Tree         | SolutionShenDu          | LeetCode 104: Maximum Depth of Binary Tree                                            |
+| DivideConquer| DCSolution3             | Leetcode 50: Pow(x,n)
